@@ -19,6 +19,10 @@ Um site pessoal que exibe meus projetos e habilidades. Dê uma olhada!
 ### [Calculadora Python](link-para-o-repositorio-calculadora)
 Uma calculadora simples desenvolvida em Python como projeto de estudo.
 
+## Atualmente Aprendendo
+
+- Estou mergulhando mais fundo em programação web com foco em back-end.
+
 ## Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/mateus-rodrigues-romano-961b9a1b4/)
