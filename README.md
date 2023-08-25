@@ -6,8 +6,8 @@ Sou um entusiasta da programação e estou sempre em busca de aprender coisas no
 
 ## Habilidades
 
-- Linguagens de Programação: Python, JavaScript, HTML, CSS
-- Frameworks: Flask, React
+- Linguagens de Programação: JavaScript, HTML, CSS
+- Frameworks: 
 - Ferramentas: Git, VS Code
 - Outras Habilidades: Resolução de Problemas, Design de Interface
 
@@ -16,7 +16,7 @@ Sou um entusiasta da programação e estou sempre em busca de aprender coisas no
 ### [Meu Portfólio](link-para-o-seu-portfolio)
 Um site pessoal que exibe meus projetos e habilidades. Dê uma olhada!
 
-### [Calculadora Python](link-para-o-repositorio-calculadora)
+### [Calculadora JavaScript](link-para-o-repositorio-calculadora)
 Uma calculadora simples desenvolvida em Python como projeto de estudo.
 
 ## Atualmente Aprendendo
