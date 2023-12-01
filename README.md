@@ -15,9 +15,6 @@ Sou um entusiasta da programação e estou sempre em busca de aprender coisas no
 ### [Meu Portfólio](link-para-o-seu-portfolio)
 Um site pessoal que exibe meus projetos e habilidades. Dê uma olhada!
 
-### [Calculadora JavaScript](link-para-o-repositorio-calculadora)
-Uma calculadora simples desenvolvida em Python como projeto de estudo.
-
 ## Atualmente Aprendendo
 
 - Estou mergulhando mais fundo em programação web com foco em me profissionalizar em Desenvolvedor Full Stack.
