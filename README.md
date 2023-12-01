@@ -6,10 +6,9 @@ Sou um entusiasta da programação e estou sempre em busca de aprender coisas no
 
 ## Habilidades
 
-- Linguagens de Programação: JavaScript, HTML, CSS
-- Frameworks: 
+- Linguagens de Programação: HTML, CSS
 - Ferramentas: Git, VS Code
-- Outras Habilidades: Resolução de Problemas, Design de Interface
+- Outras Habilidades: Resolução de Problemas, Design de Interface.
 
 ## Projetos
 
@@ -21,7 +20,7 @@ Uma calculadora simples desenvolvida em Python como projeto de estudo.
 
 ## Atualmente Aprendendo
 
-- Estou mergulhando mais fundo em programação web com foco em back-end.
+- Estou mergulhando mais fundo em programação web com foco em me profissionalizar em Desenvolvedor Full Stack.
 
 ## Redes Sociais
 
