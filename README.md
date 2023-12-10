@@ -8,7 +8,7 @@ Sou um entusiasta da programação e estou sempre em busca de aprender coisas no
 
 - Linguagens de Programação: HTML, CSS
 - Ferramentas: Git, VS Code
-- Outras Habilidades: Resolução de Problemas, Design de Interface.
+- Outras Habilidades: Resolução de Problemas, Lógica de Programação.
 
 ## Projetos
 
