@@ -34,7 +34,7 @@ Sou um entusiasta da programação web e estou sempre em busca de aprender coisa
 Games🎮 
 Instrumentos musicais 🎸
 Musica 🤘🏻 
-Desenvolver soluções Web 💻
+Desenvolver de soluções Web 💻
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusromanu/mateusromanu/output/github-contribution-grid-snake-dark.svg">
