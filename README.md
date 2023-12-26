@@ -18,7 +18,7 @@ Sou um entusiasta da programação web e estou sempre em busca de aprender coisa
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
-## 📌 Projetos
+## 📌 Portfolio
 https://mateus-romano.vercel.app/
 
 ## 🌐 Redes Sociais
