@@ -1,6 +1,6 @@
 ## Olá, eu sou Mateus Romano!
 
-Sou um entusiasta da programação web e estou sempre em busca de aprender coisas novas. Gosto de resolver problemas complexos e transformar ideias criativas, vamos nos conhecer melhor ?
+Sou um entusiasta de Engenharia de software e estou sempre em busca de aprender coisas novas. Gosto de resolver problemas complexos e transformar ideias criativas, vamos nos conhecer melhor ?
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusromanu&show_icons=true&count_private=true&theme=prussian" />
