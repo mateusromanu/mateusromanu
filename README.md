@@ -1,6 +1,8 @@
 ## Olá, eu sou Mateus Romano!
 
-Sou um entusiasta de Engenharia de software e estou sempre em busca de aprender coisas novas. Gosto de resolver problemas complexos e transformar ideias criativas, vamos nos conhecer melhor ?
+Apaixonado por tecnologia e em transição de carreira para Desenvolvedor C#. Minha sólida experiência em Gestão e Infraestrutura de TI me deu uma visão abrangente dos ambientes corporativos e aprimorou minhas habilidades em resolução de problemas e pensamento sistêmico.
+
+Estou focado em construir soluções robustas com C# e o ecossistema .NET, aprimorando minhas competências em ASP.NET Core, SQL Server e APIs RESTful. Busco ativamente desafios que me permitam aplicar minha capacidade analítica e paixão por inovar, contribuindo para a evolução tecnológica e meu crescimento profissional, vamos nos conhecer melhor ?
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusromanu&show_icons=true&count_private=true&theme=prussian" />
