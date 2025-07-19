@@ -1,24 +1,18 @@
-## Olá, eu sou Mateus Romano!
+## Olá, eu sou Mateus Romano Desenvolvedor C#!
 
-Apaixonado por tecnologia e em transição de carreira para Desenvolvedor C#. Minha sólida experiência em Gestão e Infraestrutura de TI me deu uma visão abrangente dos ambientes corporativos e aprimorou minhas habilidades em resolução de problemas e pensamento sistêmico.
+Sou um desenvolvedor apaixonado por **C#** e o ecossistema .NET, com experiência em construir aplicações robustas e escaláveis, vamos nos conhecer melhor ?
 
-Estou focado em construir soluções robustas com C# e o ecossistema .NET, aprimorando minhas competências em ASP.NET Core, SQL Server e APIs RESTful. Busco ativamente desafios que me permitam aplicar minha capacidade analítica e paixão por inovar, contribuindo para a evolução tecnológica e meu crescimento profissional, vamos nos conhecer melhor ?
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusromanu&show_icons=true&count_private=true&theme=prussian" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusromanu&theme=prussian" />
-  </a>
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## 🤓 Habilidades
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Matt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Matt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div>
+Sou proficiente em **C#** e tenho experiência sólida com as seguintes tecnologias:
+
+* **Linguagens:** C#
+* **Frameworks & Plataformas:** .NET (Core, Framework), ASP.NET Core.
+* **Bancos de Dados:** SQL Server
+* **Ferramentas & Outros:** Git,
 
 ## 📌 Portfolio
 https://mateus-romano.vercel.app/
